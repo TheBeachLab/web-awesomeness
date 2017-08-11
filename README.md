@@ -15,3 +15,7 @@ A public repository of bookmarks inspired by the [Awesome Awesomeness](https://g
   * [Taprats Islamic Geometry Tiling](http://taprats.sourceforge.net/)
   * [Video, The complex geometry of Islamic design - Eric Broug](https://www.youtube.com/watch?v=pg1NpMmPv48)
   * [Video, Computer based design of Islamic geometric patterns](https://www.youtube.com/watch?v=FBn6VgoF3fE)
+* Node
+  * Interactive Node lessons [NodeSchool.io](https://nodeschool.io/)
+* Cryptography
+  * [Email Self-Defense](https://emailselfdefense.fsf.org/en/)
