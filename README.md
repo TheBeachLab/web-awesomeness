@@ -7,6 +7,14 @@ A public repository of bookmarks inspired by the [Awesome Awesomeness](https://g
   * [Chasing Coral Documentary](http://www.chasingcoral.com/)
   * Ocean Datasets
     * [Seaview Data](http://www.seaviewdata.org/index.php/home/)
+    * WAVEWATCH III® (Tolman 1997, 1999a, 2009) is a third generation wave model developed at NOAA/NCEP in the spirit of the WAM model (WAMDIG 1988, Komen et al. 1994). It is a further development of the model WAVEWATCH, as developed at Delft University of Technology (Tolman 1989, 1991a) and WAVEWATCH II, developed at NASA, Goddard Space Flight Center (e.g., Tolman 1992). WAVEWATCH III®, however, differs from its predecessors in many important points such as the governing equations, the model structure, the numerical methods and the physical parameterizations. [NOAA Wavewatch III](http://polar.ncep.noaa.gov/waves/index2.shtml)
+    * The HYCOM consortium is a multi-institutional effort sponsored by the National Ocean Partnership Program (NOPP), as part of the U. S. Global Ocean Data Assimilation Experiment (GODAE), to develop and evaluate a data-assimilative hybrid isopycnal-sigma-pressure (generalized) coordinate ocean model (called HYbrid Coordinate Ocean Model or HYCOM). [HYCOM Global Ocean Forecast](https://hycom.org/)
+    * [Environmentally Protected Areas](http://www.mpatlas.org/map/mpas/)
+    * [Bathymetry Geospatial Data](http://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-bathymetry/)
+    * [Wunderground](https://www.wunderground.com/weather/api)
+    * [Ocean Carbon Acidification Data Portal](https://www.nodc.noaa.gov/oceanacidification/stewardship/data_portal.html)
+    * [World Ocean Database](https://www.nodc.noaa.gov/OC5/WOD/pr_wod.html)
+
 * Cartography
   * [Command line cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c)
   * [Earth, a project to visualize global weather](https://github.com/cambecc/earth)
@@ -19,3 +27,9 @@ A public repository of bookmarks inspired by the [Awesome Awesomeness](https://g
   * Interactive Node lessons [NodeSchool.io](https://nodeschool.io/)
 * Cryptography
   * [Email Self-Defense](https://emailselfdefense.fsf.org/en/)
+* Web Technology. Find out what websites are created with.
+  * [WhatRuns](https://www.whatruns.com/)
+  * [BuitWith](https://builtwith.com/)
+  * [Wappalizer](https://wappalyzer.com/)
+  * [SiteStacks](https://sitestacks.com/)
+  * [Yanalizer](https://yanalyzer.com/)
