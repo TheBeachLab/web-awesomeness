@@ -14,7 +14,6 @@ A public repository of bookmarks inspired by the [Awesome Awesomeness](https://g
     * [Wunderground](https://www.wunderground.com/weather/api)
     * [Ocean Carbon Acidification Data Portal](https://www.nodc.noaa.gov/oceanacidification/stewardship/data_portal.html)
     * [World Ocean Database](https://www.nodc.noaa.gov/OC5/WOD/pr_wod.html)
-
 * Cartography
   * [Command line cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c)
   * [Earth, a project to visualize global weather](https://github.com/cambecc/earth)
@@ -33,3 +32,6 @@ A public repository of bookmarks inspired by the [Awesome Awesomeness](https://g
   * [Wappalizer](https://wappalyzer.com/)
   * [SiteStacks](https://sitestacks.com/)
   * [Yanalizer](https://yanalyzer.com/)
+* Internet of Things (IoT)
+  * [IFTTT](https://ifttt.com/)
+  * [Zapier](https://zapier.com/)
