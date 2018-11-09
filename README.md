@@ -35,3 +35,6 @@ A public repository of bookmarks inspired by the [Awesome Awesomeness](https://g
 * Internet of Things (IoT)
   * [IFTTT](https://ifttt.com/)
   * [Zapier](https://zapier.com/)
+* CLI
+  * [ranger](https://ranger.github.io/). A console file manager  
+  * [gtypist](https://www.gnu.org/software/gtypist/). A command line typing tutor
