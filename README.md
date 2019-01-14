@@ -1,4 +1,5 @@
-# Web Awesomeness
+# Web Awesomeness [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A public repository of bookmarks inspired by the [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) project
 
 * My favourite awesome lists
