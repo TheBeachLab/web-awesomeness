@@ -1,6 +1,14 @@
 # Web Awesomeness
 A public repository of bookmarks inspired by the [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) project
 
+* My favourite awesome lists
+  * [Awesome machine learning art](https://github.com/vibertthio/awesome-machine-learning-art)
+  * [Unix ASCII games](https://github.com/ligurio/awesome-ttygames)
+  * [Awesome drones](https://github.com/janesmae/awesome-drones)
+  * [Awesome Python](https://github.com/vinta/awesome-python)
+  * [Awesome Shell](https://github.com/alebcay/awesome-shell)
+  * [Terminals are sexy](https://github.com/k4m4/terminals-are-sexy)
+  * [Awesome cli apps](https://github.com/agarrharr/awesome-cli-apps)
 * The Ocean
   * [Ocean Discovery Challenge](http://oceandiscovery.xprize.org/)
   * [Big Ocean Button Challenge](https://herox.com/bigoceanbutton/timeline)
